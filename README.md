@@ -4,7 +4,7 @@
 
 [![Nim](https://img.shields.io/badge/nim-2.0+-yellow.svg)](https://nim-lang.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![X/Twitter](https://img.shields.io/badge/Discord-Join%20Us-7289da.svg)](https://x.com/AnonAntics)
+[![X/Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2.svg)](https://x.com/AnonAntics)
 
 SSH credential testing tool written in Nim with async concurrency.
 
@@ -32,5 +32,5 @@ nim c -d:release sshbrute.nim
 
 ## Community
 
-- **Discord**: [x.com/AnonAntics](https://x.com/AnonAntics)
+- **Twitter**: [x.com/AnonAntics](https://x.com/AnonAntics)
 - **GitHub**: [bad-antics](https://github.com/bad-antics)
